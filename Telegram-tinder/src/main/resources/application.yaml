@@ -1,0 +1,11 @@
+telegram:
+  api-url: "https://api.telegram.org/"
+  webhook-path: "https://bd70-5-149-159-44.ngrok.io"
+  bot-name: "LigaOldTinderBot"
+  bot-token: "6054149617:AAHgpU31gy3PyC_pkPj49LCDklGyHO9UBMg"
+localeTag: ru-RU
+upload:
+  path: "src/main/resources/prerev-background.jpg"
+
+key:
+  localPath: http://localhost:8080/
